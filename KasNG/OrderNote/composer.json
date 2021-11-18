@@ -1,0 +1,17 @@
+{
+    "name": "kasng/order-note",
+    "autoload": {
+        "psr-4": {
+            "Kasng\\OrderNote\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KasNG",
+            "email": "kasngcloud@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}

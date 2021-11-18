@@ -1,0 +1,5 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Communication/etc/communication.xsd">
+    <topic name="custom.ordernote" request="string">
+        <handler name="custom.ordernote" type="KasNG\OrderNote\Model\Consumer" method="process" />
+    </topic>
+</config>
