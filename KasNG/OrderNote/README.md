@@ -30,6 +30,10 @@ php bin/magento cache:flush
 
 Finish install.
 
+### Description
+
+![Description](https://github.com/KasNGCloud/OrderNote/blob/main/KasNG/OrderNote/description.png?raw=true)
+
 ### Configurations
 
 Custom note will be configured in admin system.
